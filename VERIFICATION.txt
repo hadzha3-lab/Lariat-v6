@@ -1,0 +1,14 @@
+[OK] 12 unique games
+[OK] all games routed
+[OK] balanced braces
+[OK] grid imports
+[OK] v6 visible
+[OK] sdk36
+[OK] no obsolete plugin
+[OK] no internet
+[OK] artifact v6
+[OK] connect4 horizontal win
+[OK] connect4 empty no win
+[OK] prime rules
+
+Runtime APK test: NOT performed in this environment.
